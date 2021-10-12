@@ -1,5 +1,5 @@
 User-agent: *
-Sitemap: https://dtpnk.github.io/ghost-test//sitemap.xml
+Sitemap: /ghost-test/sitemap.xml
 Disallow: /ghost/
 Disallow: /p/
 Disallow: /email/
